@@ -1,0 +1,4 @@
+Name: Jaya Lakshmi 
+Department: B.tech IT
+Year: 1st year 
+This is my first GitHub repository.
